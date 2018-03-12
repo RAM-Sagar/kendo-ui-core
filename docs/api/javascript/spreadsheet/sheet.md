@@ -56,7 +56,7 @@ The column index(es)
 
 ```
     <div id="spreadsheet"></div>
-    <script type="text/javascript" charset="utf-8">
+    <script>
 
         $("#spreadsheet").kendoSpreadsheet();
 
